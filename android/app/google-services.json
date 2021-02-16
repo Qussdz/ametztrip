@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "239013892627",
+    "project_id": "ametztrip",
+    "storage_bucket": "ametztrip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239013892627:android:f501817fefb3e7c4e325e6",
+        "android_client_info": {
+          "package_name": "com.example.ametztrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239013892627-rs5lf7psfrgaf3pfa2ph4s917o9qa9lv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ametztrip",
+            "certificate_hash": "ddbd64fb1d22df447d5798fb6cd322332dcee534"
+          }
+        },
+        {
+          "client_id": "239013892627-d1k6updibrm4rl5cben2t0uk3a4gp4r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwmrl8rVeWaOKCaT99xiyXtshPJtx1S9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239013892627-d1k6updibrm4rl5cben2t0uk3a4gp4r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
